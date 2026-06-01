@@ -1,0 +1,30 @@
+# talque Knowledge Base
+
+> Complete Help Center for talque users — answers to all questions about events, networking, sessions, partner profiles, speakers, livestreaming, data upload, and multilingual support.
+
+talque is a Berlin-based B2B event management platform for conferences, trade shows, festivals, and hybrid events. The platform covers account setup, ticketing, networking, matchmaking, 1:1 meetings, sessions, partner profiles, speaker management, livestreaming, data upload, and GDPR-compliant data processing.
+
+## Canonical sources
+
+- [talque Knowledge Base (English)](https://talque-knowledge-base-en.vercel.app/): Complete English Help Center with 11 chapters and 80+ guides, embedded on web.talque.com.
+- [talque Knowledgebase (Deutsch)](https://talque-knowledge-base.vercel.app/): Vollständiges deutsches Hilfe-Center.
+
+## Core topics
+
+- [Account & Settings](https://talque-knowledge-base-en.vercel.app/#account): Create account, change email, password, language & time zone.
+- [Getting Started](https://talque-knowledge-base-en.vercel.app/#getting-started): How the talque web app is structured, set up an event in 5 steps.
+- [Networking & Meetings](https://talque-knowledge-base-en.vercel.app/#networking): 1:1 meetings, matchmaking, direct calls, VIP networking tables.
+- [Sessions & Program](https://talque-knowledge-base-en.vercel.app/#sessions): Create sessions, rooms, formats, filters, ticket-based access.
+- [Partners & Exhibitors](https://talque-knowledge-base-en.vercel.app/#partners): Partner profiles, lead lists, pitch contest.
+- [Speakers](https://talque-knowledge-base-en.vercel.app/#speakers): Speaker profiles, content approval, handouts.
+- [Video & Livestreams](https://talque-knowledge-base-en.vercel.app/#video): YouTube, Vimeo, Zoom, RTMP, studio software, Slido.
+- [Invitations & Onboarding](https://talque-knowledge-base-en.vercel.app/#invitations): Invite attendees, matchmaking setup.
+- [Data Upload](https://talque-knowledge-base-en.vercel.app/#data): CSV/XLSX templates, data formats, languages, country codes.
+- [Technical & Security](https://talque-knowledge-base-en.vercel.app/#technical): System requirements, firewall ports, Jitsi call testing.
+- [Community Guidelines](https://talque-knowledge-base-en.vercel.app/#community): Code of conduct, reporting options, support contact.
+
+## Contact
+
+- support@talque.de — Technical support
+- hello@talque.de — General inquiries
+- talque.com — Website

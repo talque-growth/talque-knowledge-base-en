@@ -1,0 +1,72 @@
+# robots.txt for talque Help Center (English)
+# Lives at the root of the English Vercel project
+# (e.g. https://talque-knowledge-base-en.vercel.app/robots.txt)
+
+# ── Standard Search Crawlers (SEO) ──
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# ── AI / GEO Crawlers ──
+# Allowed so talque answers can be cited in AI search
+# (ChatGPT, Claude, Perplexity, Google AI Overviews, etc.)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+# ── Default for any other bots ──
+User-agent: *
+Allow: /
+Disallow:
+
+# ── Sitemap ──
+Sitemap: https://talque-knowledge-base-en.vercel.app/sitemap.xml
